@@ -105,3 +105,4 @@ The project includes SQL scripts for:
 **Name:** John sebastian 
 
 **Clan:** Clan 1 magdalena 
+respository: https://github.com/Johns8729/base-de-datos-2
